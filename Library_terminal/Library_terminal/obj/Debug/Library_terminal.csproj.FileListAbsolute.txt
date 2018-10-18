@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\bin\Debug\Library_terminal.exe.config
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\bin\Debug\Library_terminal.exe
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\bin\Debug\Library_terminal.pdb
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\obj\Debug\Library_terminal.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\obj\Debug\Library_terminal.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\obj\Debug\Library_terminal.exe
+C:\Users\rtoles\Desktop\Library_lab\Library_terminal\Library_terminal\obj\Debug\Library_terminal.pdb
